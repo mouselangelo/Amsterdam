@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/action_settings"
+    >
+
+    <PreferenceCategory android:title="@string/prefs_group_units">
+        <ListPreference android:title="@string/prefs_temperature"
+            android:icon="@drawable/ic_wb_sunny_black_24dp"
+            android:dialogTitle="@string/prefs_temperature_units"
+            android:entries="@array/prefs_units_names"
+            android:entryValues="@array/prefs_units_values"
+            android:defaultValue="@string/prefs_units_default_value"
+            android:key="@string/prefs_units_key"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

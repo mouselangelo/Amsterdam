@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="activity_horizontal_margin">48dp</dimen>
+    <dimen name="view_margin_large">48dp</dimen>
+    <dimen name="view_margin_small">24dp</dimen>
+    <dimen name="textsize_placeName">28sp</dimen>
+    <dimen name="textsize_when">16sp</dimen>
+    <dimen name="textSize_current_temperature">60sp</dimen>
+    <dimen name="textSize_units">18sp</dimen>
+    <dimen name="textSize_current_condition">27sp</dimen>
+    <dimen name="list_min_height">62dp</dimen>
+    <dimen name="textSize_list_day">20sp</dimen>
+    <dimen name="textSize_list_date">16sp</dimen>
+    <dimen name="textSize_list_max_temp">34sp</dimen>
+    <dimen name="textSize_list_min_temp">28sp</dimen>
+</resources>

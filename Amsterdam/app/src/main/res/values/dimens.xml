@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_margin_large">16dp</dimen>
+    <dimen name="view_margin_small">8dp</dimen>
+    <dimen name="textsize_placeName">21sp</dimen>
+    <dimen name="textsize_when">14sp</dimen>
+    <dimen name="textSize_current_temperature">48sp</dimen>
+    <dimen name="textSize_units">16sp</dimen>
+    <dimen name="textSize_current_condition">24sp</dimen>
+    <dimen name="list_min_height">48dp</dimen>
+    <dimen name="textSize_list_day">16sp</dimen>
+    <dimen name="textSize_list_date">14sp</dimen>
+    <dimen name="textSize_list_max_temp">26sp</dimen>
+    <dimen name="textSize_list_min_temp">21sp</dimen>
+</resources>
